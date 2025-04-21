@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Chaitanya-dataexplorer/Chaitanya-dataexplorer/blob/main/Heading.png?raw=true" width="600"/>
+  <img src="https://github.com/Chaitanya-dataexplorer/Chaitanya-dataexplorer/blob/main/Heading.png?raw=true" width="1500"/>
 </p>
 
 
