@@ -52,12 +52,30 @@ My expertise lies in extracting insights from large datasets, building automated
 
 ---
 
-💬 **Let's Connect!**
+📊 **GitHub Stats**
 
-- 📫 Email: [bhaleraochaitanya82@gmail.com](mailto:bhaleraochaitanya82@gmail.com)
-- 💼 LinkedIn: [Chaitanya Bhalerao](https://linkedin.com/in/Chaitanya_Bhalerao)
-- 🌎 Location: Indore, Madhya Pradesh, India
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyabhalerao&show_icons=true&theme=tokyonight" alt="Chaitanya's GitHub stats" />
+</p>
 
 ---
 
+🛠️ **Top Languages**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyabhalerao&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+💬 **Let's Connect!**
+
+<p align="center">
+  <a href="mailto:bhaleraochaitanya82@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/Chaitanya_Bhalerao"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://bold.pro/my/chaitanya-bhalerao"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=bold&logoColor=white" alt="Portfolio"/></a>
+</p>
+---
+
 *"Turning complex data into simple stories that drive business success."* 🌟
+
