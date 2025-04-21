@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://www.canva.com/design/DAFksxru1PU/E7LsAorPLIlYIoCvAXwAJA/edit?utm_content=DAFksxru1PU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="600"/>
+</p>
+
+
+
+
 # 👋 Hi, I'm Chaitanya Bhalerao!
 
 **Data Scientist | Data Analyst | Business Intelligence Enthusiast**  
