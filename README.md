@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://www.canva.com/design/DAFksxru1PU/E7LsAorPLIlYIoCvAXwAJA/edit?utm_content=DAFksxru1PU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://github.com/Chaitanya-dataexplorer/Chaitanya-dataexplorer/blob/main/Heading.png?raw=true)" width="600"/>
+  <img src="https://github.com/Chaitanya-dataexplorer/Chaitanya-dataexplorer/blob/main/Heading.png?raw=true" width="600"/>
 </p>
 
 
