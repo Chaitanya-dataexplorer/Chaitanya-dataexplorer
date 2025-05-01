@@ -16,7 +16,6 @@
 I'm a results-driven Data Analyst and Business Strategist with a strong background in financial analytics, manufacturing operations, and customer retention strategies.  
 My expertise lies in extracting insights from large datasets, building automated dashboards, and applying statistical and machine learning techniques to drive business growth.
 
-- 🔥 30%+ RFQ-to-PO conversion improvement through data-driven strategies
 - 📈 25% customer retention boost with RFM analysis and targeted segmentation
 - 📊 100+ automated dashboards and reports delivered using Power BI, Python, and SQL
 - 💬 Passionate about business optimization, predictive modeling, and strategic decision support
